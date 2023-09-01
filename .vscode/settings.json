@@ -1,3 +1,4 @@
 {
-  "editor.indentSize": "tabSize"
+  "editor.indentSize": "tabSize",
+  "files.trimTrailingWhitespace": true
 }
